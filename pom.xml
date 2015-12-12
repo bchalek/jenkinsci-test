@@ -15,7 +15,6 @@ http://maven.apache.org/maven-v4_0_0.xsd
 		<sourceDirectory>src</sourceDirectory>
 	</build>
 	<reporting>
-	  	<outputDirectory>C:\Users\Student\git\jenkinsci-test\reports</outputDirectory>
 	  	<plugins>
 	      <plugin>
 	        <groupId>org.apache.maven.plugins</groupId>
